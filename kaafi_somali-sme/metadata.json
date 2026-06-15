@@ -1,0 +1,6 @@
+{
+  "name": "Kaafi Somali SME",
+  "description": "An all-in-one SME management, business automation, and AI business intelligence suite optimized for Somali businesses (supermarkets, pharmacies, retail, and wholesalers) with EVC Plus and eDahab mobile money integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
